@@ -15,8 +15,8 @@ export default function Footer() {
             <img className="mb-5" src="/Images/Group 1484.svg" alt="" />
             <img src="/Images/Group 390.svg" alt="" />
           </div>
-          <div className="h-28 border-l border-gray-500"></div>
         </div>
+        <div className="h-32 border-l border-gray-500"></div>
         <div
           className="flex justify-center items-center"
           style={{ width: "25%" }}
@@ -28,8 +28,8 @@ export default function Footer() {
             <p>Commercial Advice</p>
             <p>Traffic & Transport</p>
           </div>
-          <div className="h-28 border-l border-gray-500"></div>
         </div>
+        <div className="h-32 border-l border-gray-500"></div>
         <div
           className="flex justify-center items-center"
           style={{ width: "25%" }}
@@ -41,8 +41,8 @@ export default function Footer() {
             <p>Bridge</p>
             <p>Others +</p>
           </div>
-          <div className="h-28 border-l border-gray-500"></div>
         </div>
+        <div className="h-32 border-l border-gray-500"></div>
         <div
           className="flex justify-center items-center"
           style={{ width: "25%" }}
@@ -54,8 +54,8 @@ export default function Footer() {
             <p>News</p>
             <p>Our Capabilities</p>
           </div>
-          <div className="h-28 border-l border-gray-500"></div>
         </div>
+        <div className="h-32 border-l border-gray-500"></div>
       </div>
       <div className="w-full border-b border-gray-500"></div>
       <div
